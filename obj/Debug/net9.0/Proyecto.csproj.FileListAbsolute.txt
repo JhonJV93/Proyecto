@@ -12,3 +12,4 @@ C:\Users\PAPIBOLA RIOBAMBA\Desktop\UEA-2025-ESTRUCTURA DE DATOS-TAREAS\Proyecto\
 C:\Users\PAPIBOLA RIOBAMBA\Desktop\UEA-2025-ESTRUCTURA DE DATOS-TAREAS\Proyecto\obj\Debug\net9.0\Proyecto.pdb
 C:\Users\PAPIBOLA RIOBAMBA\Desktop\UEA-2025-ESTRUCTURA DE DATOS-TAREAS\Proyecto\obj\Debug\net9.0\Proyecto.genruntimeconfig.cache
 C:\Users\PAPIBOLA RIOBAMBA\Desktop\UEA-2025-ESTRUCTURA DE DATOS-TAREAS\Proyecto\obj\Debug\net9.0\ref\Proyecto.dll
+C:\Users\PAPIBOLA RIOBAMBA\Desktop\UEA-2025-ESTRUCTURA DE DATOS-TAREAS\Proyecto\obj\Debug\net9.0\Proyecto.sourcelink.json
